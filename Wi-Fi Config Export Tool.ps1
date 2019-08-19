@@ -1,7 +1,7 @@
 ﻿# =============================================================================
 # File Name: Wi-Fi Config Export Tool.ps1
 # =============================================================================
-# Name: Set up AD Structure
+# Name: Wi-Fi Config Export Tool
 # Author: Zak Clifford 
 # Contact:  z.clifford[at]computeam.co.uk
 # Version 1.0
