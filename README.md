@@ -1,12 +1,41 @@
-# =============================================================================
-# File Name: Wi-Fi Config Export Tool.ps1
-# =============================================================================
-# Name: Wi-Fi Config Export Tool
-# Author: Zak Clifford 
-# Contact:  z.clifford[at]computeam.co.uk
-# Version 1.0
-# Created: 10 Jul 2019
-# Updated: N/A
-# Description: Export the Inputed WiFi SSID profile incluing the PSK
-# SHA256 HASH: FF020414974C1E746F9762157F1925A52C9AFCE244C4CF377B51D3D9BE9CDC6E
-# =============================================================================
+# Wi-Fi Config Export Tool
+
+Exports the Inputed WiFi SSID profile incluing the PSK, multiple options
+
+## Example options
+```
+================ Wi-Fi Config Export Tool - Main Menu ================
+1: Press '1' to display the WiFi SSID PSK.
+2: Press '2' to output the details to a file (Basic).
+3: Press '3' to output the details to a file (Advanced).
+Q: Press 'Q' to quit.
+Please make a selection:
+```
+
+## Pre Requisites
+Non needed
+
+## Version Control
+- Name: Wi-Fi Config Export Tool
+- Author: Zak Clifford 
+
+## Versioning
+
+- Current Version - 1.0
+- Created: 10 Jul 2019
+- Updated: N/A 
+- v1.0 - Creation of script
+
+## Authors
+
+**Zak Clifford** - [M1st3r3](https://github.com/M1st3r3)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## About Me
+
+- Personal Twitter: [@zakclifford](https://twitter.com/zakclifford)
+- Company Twitter: [@Computeam](https://twitter.com/computeam)
+- Website: [zsecure.uk](https://zsecure.uk/)
