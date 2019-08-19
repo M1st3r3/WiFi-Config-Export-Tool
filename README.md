@@ -1,6 +1,6 @@
 # Wi-Fi Config Export Tool
 
-Exports the Inputed WiFi SSID profile incluing the PSK, multiple options
+Exports the Inputted WiFi SSID profile including the PSK with multiple options
 
 ## Example options
 ```
